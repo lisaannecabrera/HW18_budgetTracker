@@ -1,0 +1,6 @@
+{
+  "name": "HW18-budgetTracker",
+  "short_name": "budget-app",
+  "start_url": "/",
+  "display": "standalone"
+}
