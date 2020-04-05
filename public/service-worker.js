@@ -40,7 +40,7 @@ self.addEventListener(`activate`, (event) => {
     )
   );
 
-  self.ClientRectList.claim();
+  self.client.claim();
 });
 
 // fetch
