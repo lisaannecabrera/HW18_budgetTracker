@@ -1,10 +1,9 @@
 const FILES_TO_CACHE = [
   `/`,
   `/index.html`,
-  `index.js`,
-  `manifest.webManifest`,
-  `service-worker.js`,
-  `style.css`,
+  `/index.js`,
+  `/manifest.webManifest`,
+  `/style.css`,
 ];
 
 const CACHE_NAME = `static-cache-v2`;
